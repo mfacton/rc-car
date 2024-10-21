@@ -1,3 +1,0 @@
-../Application/Src/display/options/redirect.cpp:6:1:Redirect::Redirect(const char*, ScreenName)	24	static
-../Application/Src/display/options/redirect.cpp:8:6:virtual void Redirect::draw(char*)	16	static
-../Application/Src/display/options/redirect.cpp:12:9:virtual uint8_t Redirect::press()	16	static

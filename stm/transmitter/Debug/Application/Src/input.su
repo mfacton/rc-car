@@ -1,2 +1,0 @@
-../Application/Src/input.c:8:9:Input_GetState	24	static
-../Application/Src/input.c:14:6:Input_TimerHandler	16	static

@@ -1,5 +1,0 @@
-title.hpp:4:7:constexpr Title::Title()	1
-text.cpp:6:1:Text::Text(const char*)	1
-text.cpp:8:6:virtual void Text::draw()	1
-text.hpp:6:7:Text::~Text()	1
-text.hpp:6:7:virtual Text::~Text()	1

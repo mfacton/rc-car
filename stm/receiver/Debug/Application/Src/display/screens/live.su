@@ -1,6 +1,0 @@
-../Application/Src/display/screens/live.cpp:5:1:Live::Live(Title*, Stream*)	24	static
-../Application/Src/display/screens/live.cpp:6:1:Live::~Live()	16	static
-../Application/Src/display/screens/live.cpp:6:1:virtual Live::~Live()	16	static
-../Application/Src/display/screens/live.cpp:10:6:virtual void Live::init()	16	static
-../Application/Src/display/screens/live.cpp:13:9:virtual uint8_t Live::loop()	24	static
-../Application/Src/display/screens/live.cpp:19:6:virtual void Live::close()	16	static

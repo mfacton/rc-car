@@ -1,2 +1,0 @@
-../Application/Src/display/templates/option.cpp:3:1:Option::Option(const char*)	16	static
-../Application/Src/display/templates/option.cpp:5:13:const char* Option::getText()	16	static

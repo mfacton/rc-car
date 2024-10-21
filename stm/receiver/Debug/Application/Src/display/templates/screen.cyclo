@@ -1,4 +1,0 @@
-screen.cpp:3:1:Screen::Screen(Title*)	1
-screen.cpp:5:1:Screen::~Screen()	2
-screen.cpp:5:1:virtual Screen::~Screen()	1
-screen.cpp:9:6:void Screen::drawTitle()	1

@@ -1,5 +1,0 @@
-../Application/Inc/display/templates/stream.hpp:4:7:constexpr Stream::Stream()	16	static
-../Application/Src/display/streams/print.cpp:6:1:Print::Print(void (*)(char*))	16	static
-../Application/Src/display/streams/print.cpp:8:6:virtual void Print::draw()	40	static
-../Application/Inc/display/streams/print.hpp:6:7:Print::~Print()	16	static
-../Application/Inc/display/streams/print.hpp:6:7:virtual Print::~Print()	16	static

@@ -1,3 +1,0 @@
-../Application/Src/display/options/action.cpp:5:1:Action::Action(const char*, void (*)())	24	static
-../Application/Src/display/options/action.cpp:7:6:virtual void Action::draw(char*)	16	static
-../Application/Src/display/options/action.cpp:11:9:virtual uint8_t Action::press()	16	static

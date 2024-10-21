@@ -1,2 +1,0 @@
-option.cpp:3:1:Option::Option(const char*)	1
-option.cpp:5:13:const char* Option::getText()	1

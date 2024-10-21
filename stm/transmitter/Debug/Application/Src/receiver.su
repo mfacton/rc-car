@@ -1,5 +1,0 @@
-../Application/Src/receiver.c:16:6:Receiver_Init	40	static
-../Application/Src/receiver.c:51:6:Receiver_Handler	4	static
-../Application/Src/receiver.c:55:9:Receiver_Available	4	static
-../Application/Src/receiver.c:59:9:Receiver_Read	8	static
-../Application/Src/receiver.c:66:6:nrf24l01p_receive_callback	16	static

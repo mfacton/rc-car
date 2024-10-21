@@ -1,5 +1,0 @@
-../Application/Inc/display/templates/title.hpp:4:7:constexpr Title::Title()	16	static
-../Application/Src/display/titles/image.cpp:4:1:Image::Image(const uint8_t*, uint8_t, uint8_t)	24	static
-../Application/Src/display/titles/image.cpp:8:6:virtual void Image::draw()	32	static
-../Application/Inc/display/titles/image.hpp:7:7:Image::~Image()	16	static
-../Application/Inc/display/titles/image.hpp:7:7:virtual Image::~Image()	16	static

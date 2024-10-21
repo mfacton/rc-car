@@ -1,3 +1,0 @@
-redirect.cpp:6:1:Redirect::Redirect(const char*, ScreenName)	1
-redirect.cpp:8:6:virtual void Redirect::draw(char*)	1
-redirect.cpp:12:9:virtual uint8_t Redirect::press()	1

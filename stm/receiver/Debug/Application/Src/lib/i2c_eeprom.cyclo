@@ -1,3 +1,0 @@
-i2c_eeprom.c:13:6:eeprom_write	1
-i2c_eeprom.c:17:6:eeprom_address_read	1
-i2c_eeprom.c:21:6:eeprom_random_read	1

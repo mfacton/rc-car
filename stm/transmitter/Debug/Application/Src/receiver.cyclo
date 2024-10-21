@@ -1,5 +1,0 @@
-receiver.c:16:6:Receiver_Init	1
-receiver.c:51:6:Receiver_Handler	1
-receiver.c:55:9:Receiver_Available	1
-receiver.c:59:9:Receiver_Read	1
-receiver.c:66:6:nrf24l01p_receive_callback	1

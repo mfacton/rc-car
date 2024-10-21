@@ -1,8 +1,0 @@
-eeprom.c:15:6:Memory_Init	2
-eeprom.c:25:10:Memory_GetMin	1
-eeprom.c:29:10:Memory_GetMax	1
-eeprom.c:33:10:Memory_Read	1
-eeprom.c:37:6:Memory_Write	2
-eeprom.c:47:6:Memory_Toggle	1
-eeprom.c:51:6:Memory_Evaluate	1
-eeprom.c:55:6:Memory_ResetAll	1

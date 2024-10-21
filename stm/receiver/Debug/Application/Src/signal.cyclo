@@ -1,3 +1,0 @@
-signal.c:3:6:Signal_TimerHandler	1
-signal.c:7:6:Signal_TestSteering	1
-signal.c:11:6:Signal_TestMotor	1
