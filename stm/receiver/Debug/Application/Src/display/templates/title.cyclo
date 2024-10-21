@@ -1,0 +1,2 @@
+title.cpp:3:1:Title::~Title()	1
+title.cpp:3:1:virtual Title::~Title()	1

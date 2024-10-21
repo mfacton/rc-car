@@ -1,0 +1,5 @@
+../Application/Inc/display/templates/title.hpp:4:7:constexpr Title::Title()	16	static
+../Application/Src/display/titles/text.cpp:6:1:Text::Text(const char*)	16	static
+../Application/Src/display/titles/text.cpp:8:6:virtual void Text::draw()	24	static
+../Application/Inc/display/titles/text.hpp:6:7:Text::~Text()	16	static
+../Application/Inc/display/titles/text.hpp:6:7:virtual Text::~Text()	16	static

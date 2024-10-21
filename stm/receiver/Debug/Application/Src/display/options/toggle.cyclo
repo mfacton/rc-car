@@ -1,0 +1,3 @@
+toggle.cpp:5:1:Toggle::Toggle(const char*, Address)	1
+toggle.cpp:7:6:virtual void Toggle::draw(char*)	2
+toggle.cpp:11:9:virtual uint8_t Toggle::press()	1

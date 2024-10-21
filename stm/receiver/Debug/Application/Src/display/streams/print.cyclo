@@ -1,0 +1,5 @@
+stream.hpp:4:7:constexpr Stream::Stream()	1
+print.cpp:6:1:Print::Print(void (*)(char*))	1
+print.cpp:8:6:virtual void Print::draw()	1
+print.hpp:6:7:Print::~Print()	1
+print.hpp:6:7:virtual Print::~Print()	1

@@ -1,0 +1,2 @@
+../Application/Src/display/templates/title.cpp:3:1:Title::~Title()	16	static
+../Application/Src/display/templates/title.cpp:3:1:virtual Title::~Title()	16	static

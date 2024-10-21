@@ -1,0 +1,1 @@
+../Application/Src/display/screens.cpp:16:9:Screen* Screens_GetScreen(ScreenName)	32	static

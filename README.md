@@ -1,4 +1,4 @@
 # rc-car
-Arduino RC Car
+RC car code for arduino and stm
 
-Transmitter and receiver code from a long time ago
+Some transmit and receive code for different rc car projects that I wanted to organize

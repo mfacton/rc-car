@@ -1,0 +1,6 @@
+live.cpp:5:1:Live::Live(Title*, Stream*)	1
+live.cpp:6:1:Live::~Live()	2
+live.cpp:6:1:virtual Live::~Live()	1
+live.cpp:10:6:virtual void Live::init()	1
+live.cpp:13:9:virtual uint8_t Live::loop()	1
+live.cpp:19:6:virtual void Live::close()	1

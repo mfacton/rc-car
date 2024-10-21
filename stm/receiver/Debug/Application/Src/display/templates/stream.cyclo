@@ -1,0 +1,2 @@
+stream.cpp:3:1:Stream::~Stream()	1
+stream.cpp:3:1:virtual Stream::~Stream()	1

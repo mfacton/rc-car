@@ -1,0 +1,4 @@
+../Application/Src/display/templates/screen.cpp:3:1:Screen::Screen(Title*)	16	static
+../Application/Src/display/templates/screen.cpp:5:1:Screen::~Screen()	16	static
+../Application/Src/display/templates/screen.cpp:5:1:virtual Screen::~Screen()	16	static
+../Application/Src/display/templates/screen.cpp:9:6:void Screen::drawTitle()	16	static

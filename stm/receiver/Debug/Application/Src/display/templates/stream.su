@@ -1,0 +1,2 @@
+../Application/Src/display/templates/stream.cpp:3:1:Stream::~Stream()	16	static
+../Application/Src/display/templates/stream.cpp:3:1:virtual Stream::~Stream()	16	static

@@ -1,0 +1,8 @@
+../Application/Src/eeprom.c:15:6:Memory_Init	16	static
+../Application/Src/eeprom.c:25:10:Memory_GetMin	16	static
+../Application/Src/eeprom.c:29:10:Memory_GetMax	16	static
+../Application/Src/eeprom.c:33:10:Memory_Read	16	static
+../Application/Src/eeprom.c:37:6:Memory_Write	24	static
+../Application/Src/eeprom.c:47:6:Memory_Toggle	16	static
+../Application/Src/eeprom.c:51:6:Memory_Evaluate	4	static
+../Application/Src/eeprom.c:55:6:Memory_ResetAll	4	static

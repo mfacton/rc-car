@@ -1,0 +1,10 @@
+edit.cpp:11:9:uint8_t Edit::increment_value()	4
+edit.cpp:20:9:uint8_t Edit::decrement_value()	4
+edit.cpp:29:6:void Edit::update_value()	1
+edit.cpp:36:6:void Edit::update_increment()	1
+edit.cpp:44:1:Edit::Edit(Title*, Address)	1
+edit.cpp:50:6:virtual void Edit::init()	1
+edit.cpp:59:9:virtual uint8_t Edit::loop()	8
+edit.cpp:90:6:virtual void Edit::close()	1
+edit.hpp:8:7:Edit::~Edit()	1
+edit.hpp:8:7:virtual Edit::~Edit()	1
